@@ -7,7 +7,7 @@
     "moduleResolution": "node",
     "noImplicitThis": true,
     "outDir": "dist",
-    "noEmitOnError": true
+    "noEmit": true
   },
   "include": [
     "src"
