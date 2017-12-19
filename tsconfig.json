@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "target": "es5",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "noImplicitThis": true,
+    "outDir": "dist",
+    "noEmitOnError": true
+  },
+  "include": [
+    "src"
+  ]
+}
